@@ -1,1 +1,36 @@
-
+.shadow{
+  text-shadow: 2px 2px lightgreen;
+}
+h2{
+  color:green;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+}
+div h2{
+  text-decoration-style: wavy;
+}
+#One{
+  color: purple;
+  font-style: italic;
+  font-family: Courier;
+}
+#Six{
+  text-align: right;
+}
+.First{
+  color: red;
+  text-decoration: underline;
+  font: bold;
+  font-family: times;
+  text-align: center;
+}
+.class5{
+  color: teal;
+}
+div p{
+  color: blue;
+  font-family: times;
+}
+p{
+  color: orange;
+}
